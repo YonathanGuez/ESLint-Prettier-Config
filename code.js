@@ -1,7 +1,6 @@
 function hello(name) {
-        const age = 25;
+  const nouuu = name
 }
 
-const age = 22;
-
-const thing = ['cool', ' test '];
+const table = ['kiffe', ' test ']
+const number = 22
